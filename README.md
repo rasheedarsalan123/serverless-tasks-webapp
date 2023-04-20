@@ -27,3 +27,6 @@ This workshop is divided into multiple steps. Each step describes a scenario of 
 1. Test the application
 1. Configure Amazon Rekognition Integration
 1. Terminate Resources
+
+### Hosted App Link
+https://dev.d2xpdx30nx0zeg.amplifyapp.com/
